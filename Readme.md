@@ -18,7 +18,7 @@ npx wrangler whoami
 ```
 
 Cloudeflare is similar to the node if we create a api or backend logic onl using node notive http server.
-Check it out in the vanniilanode.ts for the native node implementation.
+Check it out in the vanniilanode.ts for the native node implementation.....
 
 If we need to convert your nodejs app to work in the cloudeflare.
 We have MVC - where the controller we write the logic in seprate the database call - 90% work.
