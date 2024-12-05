@@ -10,7 +10,7 @@ npx create cloudflare -- appname
 ```
 npx wrangler login
 ```
-# Check login and access
+# Check login and access...
 
 ```
 npx wrangler whoami
