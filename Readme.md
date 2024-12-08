@@ -28,4 +28,4 @@ Having controller sepratiely really be Game changer
 
 ### hono - routing engine to write a code with cloudeflae workers
 
-Instead of express we can write hono for easier syntax....
+Instead of express we can write hono for easier syntax.
